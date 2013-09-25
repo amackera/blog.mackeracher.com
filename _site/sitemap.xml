@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!--  Homepage -->
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2013-04-24</lastmod>
+    <changefreq>daily</changefreq>
+		<priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/2012/01/16/climbing-and-life.html</loc>
+    
+    <lastmod>2012-01-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2011/10/01/work-like-you-play.html</loc>
+    
+    <lastmod>2011-10-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2011/04/28/doubts.html</loc>
+    
+    <lastmod>2011-04-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2010/12/25/real-time-search-and-the-decentralization-of-information.html</loc>
+    
+    <lastmod>2010-12-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2010/11/19/turns-out-bose-headphones-rock.html</loc>
+    
+    <lastmod>2010-11-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2010/08/28/my-life-drum-roll-please.html</loc>
+    
+    <lastmod>2010-08-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2010/05/08/why-i-became-a-pirate.html</loc>
+    
+    <lastmod>2010-05-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/10/01/using-django-on-dreamhost.html</loc>
+    
+    <lastmod>2009-10-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/09/23/books-which-have-made-a-difference-in-my-life.html</loc>
+    
+    <lastmod>2009-09-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/06/27/apn-settings-for-htc-dream-on-rogers.html</loc>
+    
+    <lastmod>2009-06-27</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/06/14/microcontroller-porn.html</loc>
+    
+    <lastmod>2009-06-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/06/12/don-quixote.html</loc>
+    
+    <lastmod>2009-06-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/05/13/what-is-the-brain-computer-analogy.html</loc>
+    
+    <lastmod>2009-05-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/04/11/brightening-my-worldview.html</loc>
+    
+    <lastmod>2009-04-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/02/09/comments-whats-missing-from-the-brain-computer-analogy.html</loc>
+    
+    <lastmod>2009-02-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/02/05/programming-the-arduino.html</loc>
+    
+    <lastmod>2009-02-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2009/02/01/what-is-a-turing-machine.html</loc>
+    
+    <lastmod>2009-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2008/12/08/the-corpus-callosum.html</loc>
+    
+    <lastmod>2008-12-08</lastmod>
+    
+  </url>
+  
+
+  
+  <url>
+    <loc>http://example.com/about.html</loc>
+    
+    <lastmod>2013-04-24</lastmod>
+    
+    
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/index.html</loc>
+    
+    <lastmod>2013-04-24</lastmod>
+    
+    
+    
+  </url>
+  
+
+</urlset>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <title>What is a Turing machine? - Mackeracher</title>
+    
+    <meta name="author" content="Anson MacKeracher" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" media="screen" href="/stylesheets/screen.css" type="text/css" />
+    
+    
+  </head>
+  <body>
+    <div id="page">
+      <div id="header">
+        <a href="/"><h1>Mackeracher</h1></a>
+      </div>
+      <div id="body">
+        <h1>What is a Turing machine?</h1>
+        <div class="postdate">Posted on 01 Feb 2009</div>
+
+<div class="post">
+If you have a budding interest in computer science, but have not yet studied it formally, then you've likely heard the term "Turing machine" floating around in your adventures across the Internet. Mayhap you have asked yourself "What is this Turing Machine, and why should I care? " eyes wide with wonder and excitement. If so, hopefully this article will offer a modicum of enlightenment; a grain of knowledge.
+<h3>Turing machines, what are they?</h3>
+<a title="Wikipedia - Turing Machine" href="http://en.wikipedia.org/wiki/Turing_machine">Wikipedia</a> says:
+<blockquote><strong>Turing machines</strong> are basic abstract symbol-manipulating devices which, despite their simplicity, can be adapted to simulate the logic of any computer algorithm.</blockquote>
+If this doesn't make any sense to you, but you're still interested, then great! You've come to the right place---sally forth, intrepid reader!
+
+Picture in your brain a big book with many blank pages. This book is our abstract Turing machine! Our machine is quite boring at the moment, wouldn't you agree? We are about to make it much more exciting, but first we should go over all the things in the fancy Wikipedia definition, and make sure our "Big Book" Turing machine has everything it needs.
+<h4>What are symbols?</h4>
+A symbol is any piece of information used by the computer to do computation. In the computer you are using right now, the symbols are strings of ones and zeros stored in your RAM or on your hard disk. In an abstract Turing machine, the symbols in question could be anything we want (like hieroglyphics, the Roman alphabet, or pictures of cats). These symbols may mean something to you or I, but to the Turing machine they are just distinct packets of information. In our "Big Book" Turing machine, to add symbols just imagine some of the blank pages filled with letters and words (written in pencil!).
+<h4>Using symbols</h4>
+Symbols are used by our Turing machine in a fancy process called <strong>symbol manipulation</strong>. This process is the act of changing a symbol in a certain location to an alternative symbol. In our "Big Book" Turing machine, we carry out symbol manipulations by erasing existing letters or hieroglyphics and writing in new ones.
+<h4>Instructions</h4>
+In order to know what symbols to erase, and what symbols to write down, we keep list of instructions in a <strong>table</strong>. Here is an example of an instruction table to give you a better idea of what they accomplish:
+<blockquote>
+<pre>1: If the third symbol on page 31 is a letter 'X', replace it with a letter 'Y'.
+2: If the fourth symbol on page 28 is a letter 'Y', replace it with a letter 'Z'.</pre>
+</blockquote>
+Where 'X' and 'Y' are abstract symbols---meaning they are two distinct packets of information.
+<h4>States</h4>
+The last piece of the puzzle we need to include in our "Big Book" Turing machine is the concept of <strong>states</strong>. The state of the Turing machine is an arbitrary attribute which is used to dictate the machine's behavior. Think of a Turing machine's states like a person's state of hunger. When you are in the HUNGRY state you go and look for food to put in your belly. When you are in the JUST-FINISHED-EATING state you do not seek out food. How hungry you are (what state you are in) determines your actions (whether you seek food or not). In a Turing machine we may have arbitrary states Q1 and Q2. Our table of instructions can use these states in the following manner:
+<blockquote>
+<pre>1: In state Q1, if the third symbol on page 31 is 'X', replace it with 'Y'; otherwise replace it with 'Z'.
+2: In state Q2, if the fourth symbol on page 42 is 'Y', replace it with 'Z'; otherwise replace it with 'X'.</pre>
+</blockquote>
+We can use this state information to make our symbol manipulation more robust. For instance, we can <em>transition between states</em> as a way to keep track of what our machine has accomplished so far. Here is a simple program illustrating a state change, and how hey can be useful:
+<blockquote>
+<pre>1: In state Q1, add symbol 'X' to symbol stored in 'loc'; store result in location 'loc'
+2: If symbol in 'loc' is greater than 10, transition to Q2
+3: If state Q1, go to instruction 1
+4: If state Q2, FINISH</pre>
+</blockquote>
+This instruction table adds the values o the symbols 'X' and the symbol stored in 'loc', then stores the result itself in location 'loc'. Then it tests to see if the result is greater than 10. If the result is less than 10, it repeats the process; if the results is greater than 10 we transition from Q1 to Q1 to indicate that we have finished execution.
+
+Hopefully you can see from this simplistic example that states &amp; state transitions are greatly useful!
+<h4>Adapting any algorithm</h4>
+In our "Big Book" Turing machine, imagine a set of instructions complex enough to describe every step in the process of converting the entire text of Ray Bradbury's <em>Fahrenheit 451</em> into Isaac Asimov's <em>Foundation</em>. Surely this is a complicated task, but given sufficient instructions, paper, time, and motivation, it could be accomplished. This is an example of how we could adapt any conceivable task to be performed by our Turing machine! Instead of using words as symbols, we use bits and bytes inside of a computer---instead of translating books, we can write operating systems and web browsers.
+<h4>UTMs, Formality, etc.</h4>
+For those interested in the origin of TMs, you might read the <a title="Church-Turing Thesis" href="http://plato.stanford.edu/entries/church-turing/">Church-Turing Thesis</a>. For additional information on Universal TMs (TMs which can simulate other TMs), read <a title="Universal Turing Machines" href="http://en.wikipedia.org/wiki/Universal_Turing_machine">this</a>. Wolfram has a <a title="A New Kind of Science" href="http://www.wolframscience.com/nksonline/toc.html">digitized copy</a> of his book <em>A New Kind of Science</em>, which discusses UTMs to some length. Of course, my depiction of a TM is simplistic in order to get the basic idea across. my goal here was to provide a simple, intuitive, allegory of a Turing machine. Computation theory is a very complicated field, and try as I might, I can't fit its entirety into less than 1000 words.
+
+</div>
+ 
+<div id="related">
+  <h2>Related Posts</h2>
+  <ul class="posts">
+    
+      <li><span>16 Jan 2012</span> - <a href="/2012/01/16/climbing-and-life.html">Climbing and life</a></li>
+    
+      <li><span>01 Oct 2011</span> - <a href="/2011/10/01/work-like-you-play.html">Work like you play</a></li>
+    
+      <li><span>28 Apr 2011</span> - <a href="/2011/04/28/doubts.html">Doubts</a></li>
+    
+      <li><span>25 Dec 2010</span> - <a href="/2010/12/25/real-time-search-and-the-decentralization-of-information.html">Real-time Search and The Decentralization of Information</a></li>
+    
+      <li><span>19 Nov 2010</span> - <a href="/2010/11/19/turns-out-bose-headphones-rock.html">Turns out Bose headphones rock</a></li>
+    
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+
+  
+  </body>
+</html>

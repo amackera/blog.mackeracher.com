@@ -1,0 +1,60 @@
+@import "mixins/syntax";
+
+// add your styles, see http://compass-style.org/
+
+h1, h2, h3, a, div.postdate {
+    font-family: helvetica, arial;
+}
+
+h1 {
+    font-size: 3.3em;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    word-spacing: .2em;
+}
+
+body {
+    background-color: #CACACA;
+    text-shadow: 1px 1px 0px #fff;
+}
+
+a:visited, a:active, a:link { 
+    background-color: #CACACA;
+    color: black; 
+    text-decoration: none;
+    text-shadow: 1px 1px 0px #fff;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-shadow: 1px 1px 0px #fff;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul.posts span {
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+}
+
+ul.posts li {
+    line-height: 1.75em;
+}
+
+div.post {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  line-height: 1.25em;
+  text-align: justify;
+}
+
+div.postdate { 
+    margin-bottom: 1em;
+}
+
+div#page {
+    width: 40em;
+    margin: 3em auto 2em auto;
+}
