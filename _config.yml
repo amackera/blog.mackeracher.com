@@ -1,22 +1,18 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            The Split Braing
+tagline:
+description:      The personal blog of Anson MacKeracher
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+url: http://blog.mackeracher.com
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Anson MacKeracjer
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        ctrunsthis        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
-  # Plug in your disqus shortname!
-  
+  bio:            "Crusher of bugs. Swashbucker."
+  email:          amackera@gmail.com
+  twitter:        amackera
+  github:         amackera
+
 
 # Links to include in top navigation
 # For external links add external: true
@@ -24,14 +20,11 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+    url: https://github.com/amackera/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Canada/Eastern
 future:      true
 pygments:    true
 markdown:    kramdown
@@ -44,7 +37,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
@@ -53,5 +46,4 @@ kramdown:
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
-include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
