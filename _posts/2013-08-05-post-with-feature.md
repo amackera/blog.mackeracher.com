@@ -4,6 +4,7 @@ title: Post and Feature Image
 description: "In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since."
 category: articles
 status: draft
+published: false
 tags: [intro, beginner, jekyll, tutorial]
 image:
   feature: gatsby.jpg
