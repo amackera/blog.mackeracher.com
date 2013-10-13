@@ -11,12 +11,15 @@ image:
 ---
 
 I'm a computer programmer. I've been writing code since 2001, from operating
-systems in C to distributed systems in Python and JavaScript. I am happy to
-call Toronto, Canada my home. I'm the Chief Architect at [Top Hat](https://tophat.com).
+systems to compilers, to distributed systems in all manner of programming languages.
+I'm the _Chief Architect_ at [Top Hat](https://tophat.com). I am happy to call Toronto,
+Canada my home.
 
 I like Python, JavaScript, C, asynchronous programming, GNU/Linux (specifically
-[ArchLinix](https://www.archlinux.org/)), and vim.
+[ArchLinux](https://www.archlinux.org/)), and vim.
 
 I like to read books, both technical and otherwise. Some of my favourite authors
-are Herman Hesse, Isaav Asimov, Margaret Atwood, and Alan Moore. I also love
+are Herman Hesse, Isaac Asimov, Margaret Atwood, and Alan Moore. I also love
 reading works of a philosophical nature (Descarte, Hobbes).
+
+Feel free to shoot me an email
