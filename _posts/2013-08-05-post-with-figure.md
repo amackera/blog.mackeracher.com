@@ -3,6 +3,7 @@ layout: post
 title: "Post with Figure"
 description: "Examples and code for displaying images in posts."
 category: articles
+status: draft
 tags: [sample post, images, test]
 ---
 
