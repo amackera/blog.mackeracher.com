@@ -11,7 +11,7 @@ image:
 ---
 
 I'm Anson MacKeracher, a computer programmer. I've been writing code since 2001, from operating
-systems to compilers, to distributed systems in all manner of programming languages.
+systems, to compilers, to distributed systems in all manner of programming languages.
 I'm the _Chief Architect_ at [Top Hat](https://tophat.com). I am happy to call Toronto,
 Canada my home.
 
