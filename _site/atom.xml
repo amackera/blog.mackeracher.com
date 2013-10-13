@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Mackeracher</title>
- <link href="http://example.com/atom.xml" rel="self"/>
- <link href="http://example.com/"/>
- <updated>2013-04-24T15:39:24-04:00</updated>
- <id>http://example.com/</id>
+ <title>Anson Writes</title>
+ <link href="http://blog.mackeracher.com/atom.xml" rel="self"/>
+ <link href="http://blog.mackeracher.com/"/>
+ <updated>2013-09-25T00:48:24-04:00</updated>
+ <id>http://blog.mackeracher.com/</id>
  <author>
    <name>Anson MacKeracher</name>
-   <email>anson@mackeracher.com</email>
+   <email>amackera@gmail.com</email>
  </author>
 
  
  <entry>
    <title>Climbing and life</title>
-   <link href="http://example.com/2012/01/16/climbing-and-life.html"/>
+   <link href="http://blog.mackeracher.com/2012/01/16/climbing-and-life.html"/>
    <updated>2012-01-16T00:00:00-05:00</updated>
-   <id>http://example.com/2012/01/16/climbing-and-life</id>
+   <id>http://blog.mackeracher.com/2012/01/16/climbing-and-life</id>
    <content type="html">&lt;p&gt;Recently I have started rock climbing. I&#39;m pretty awful at it, but I&#39;m making
 solid progress the longer I keep at it the better I get. It&#39;s been a fun and
 interesting process learning a new sport through the end of the summer and the
@@ -36,26 +36,45 @@ starting to find my focus wandering.&lt;/p&gt;
  
  <entry>
    <title>Work like you play</title>
-   <link href="http://example.com/2011/10/01/work-like-you-play.html"/>
+   <link href="http://blog.mackeracher.com/2011/10/01/work-like-you-play.html"/>
    <updated>2011-10-01T00:00:00-04:00</updated>
-   <id>http://example.com/2011/10/01/work-like-you-play</id>
-   <content type="html">I have a confession to make: All day I sit at work and program computers, then after work I go home and do the exact same thing. The programs I write at work and at home are different (right now at work I&#39;m writing a beefy Django app with tons of client-site Backbone JavaScript, but at home I&#39;m learning Rails); but to the untrained eye it must look like I just tap-tap-tap all my free time away.
+   <id>http://blog.mackeracher.com/2011/10/01/work-like-you-play</id>
+   <content type="html">&lt;p&gt;I have a confession to make: All day I sit at work and program computers,
+then after work I go home and do the exact same thing. The programs I
+write at work and at home are different (right now at work I&#39;m writing
+a beefy Django app with tons of client-site Backbone JavaScript, but at
+home I&#39;m learning Rails); but to the untrained eye it must look like I just
+tap-tap-tap all my free time away.&lt;/p&gt;
 
-Of course I wouldn&#39;t program in my free time unless I thought it was fun. I pretty much &lt;em&gt;only&lt;/em&gt; do things that I think are fun. Life&#39;s too short to spend any time being miserable about what you do. Work is a different kind of fun though; work is stressful and high-pressure. We have customers that need features, we have bugs that need fixing &lt;em&gt;yesterday&lt;/em&gt;. Those factors that make it stressful are also the factors that make it &lt;em&gt;rewarding.&lt;/em&gt; I know that a good publish will make our users happier, and that a bad push will make them sad.
+&lt;p&gt;Of course I wouldn&#39;t program in my free time unless I thought it was fun.
+I pretty much &lt;em&gt;only&lt;/em&gt; do things that I think are fun. Life&#39;s too
+short to spend any time being miserable about what you do. Work is a different
+kind of fun though; work is stressful and high-pressure. We have customers
+that need features, we have bugs that need fixing &lt;em&gt;yesterday&lt;/em&gt;.
+Those factors that make it stressful are also the factors that make it
+&lt;em&gt;rewarding.&lt;/em&gt; I know that a good publish will make our users happier,
+and that a bad push will make them sad.&lt;/p&gt;
 
-Hacking a Rails app in my spare time is a different beast. Most of my time is spent reading up on best-practices, reading entertaining blog posts by characters in the Rails community, and reading the works of the venerable _why. If I worked at a Rails shop would I still find it as fun? Maybe, maybe not. Maybe that&#39;s not the point. I have more freedom to write bullet-proof high-quality code, but if I delay my publish by 2 weeks nobody is going to care (or even notice!).
+&lt;p&gt;Hacking a Rails app in my spare time is a different beast. Most of my time
+is spent reading up on best-practices, reading entertaining blog posts by
+characters in the Rails community, and reading the works of the venerable _why.
+If I worked at a Rails shop would I still find it as fun? Maybe, maybe not.
+Maybe that&#39;s not the point. I have more freedom to write bullet-proof high-quality
+code, but if I delay my publish by 2 weeks nobody is going to care (or even notice!).&lt;/p&gt;
 
-Does a lawyer finish work at the office and go home to work on slightly different lawyer work? Does a doctor? What about a road-worker, a journalist, a carpenter? I don&#39;t think so.
+&lt;p&gt;Does a lawyer finish work at the office and go home to work on slightly
+different lawyer work? Does a doctor? What about a road-worker, a journalist,
+a carpenter? I don&#39;t think so.&lt;/p&gt;
 
-Who does keep working after hours? Artists. Musicians. Writers. Creators.
+&lt;p&gt;Who does keep working after hours? Artists. Musicians. Writers. Creators.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Doubts</title>
-   <link href="http://example.com/2011/04/28/doubts.html"/>
+   <link href="http://blog.mackeracher.com/2011/04/28/doubts.html"/>
    <updated>2011-04-28T00:00:00-04:00</updated>
-   <id>http://example.com/2011/04/28/doubts</id>
+   <id>http://blog.mackeracher.com/2011/04/28/doubts</id>
    <content type="html">&lt;blockquote&gt;The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts.&lt;/blockquote&gt;
 &lt;p style=&quot;text-align: right;&quot;&gt;- Bertrand Russell&lt;/p&gt;
 </content>
@@ -63,9 +82,9 @@ Who does keep working after hours? Artists. Musicians. Writers. Creators.
  
  <entry>
    <title>Real-time Search and The Decentralization of Information</title>
-   <link href="http://example.com/2010/12/25/real-time-search-and-the-decentralization-of-information.html"/>
+   <link href="http://blog.mackeracher.com/2010/12/25/real-time-search-and-the-decentralization-of-information.html"/>
    <updated>2010-12-25T00:00:00-05:00</updated>
-   <id>http://example.com/2010/12/25/real-time-search-and-the-decentralization-of-information</id>
+   <id>http://blog.mackeracher.com/2010/12/25/real-time-search-and-the-decentralization-of-information</id>
    <content type="html">Often, in a spare moment alone with my laptop, I find myself watching TED talks. Today I watched a &lt;a href=&quot;http://www.ted.com/talks/lang/eng/evan_williams_on_listening_to_twitter_users.html&quot;&gt;nervous looking&lt;/a&gt; Evan Williams talk about Twitter, how it grew out of a side project of another company, how they listened to their users in creating useful features such as the @reply.
 
 While watching it struck me that real-time search is a monumental thing. Not just a cool distraction, but a paradigm shift in how we, as humans, might perceive ourselves. Previous to any kind of real-time search we depended on centralized media to deliver current events to us, and that same media would drop its own bias into the information payload. Now, with Twitter, we can disseminate important information instantly, globally, with no bias but our own. Twitter is the decentralization of information delivery.
@@ -76,18 +95,18 @@ People often compare Twitter to shouting into a vast emptiness, and at times it 
  
  <entry>
    <title>Turns out Bose headphones rock</title>
-   <link href="http://example.com/2010/11/19/turns-out-bose-headphones-rock.html"/>
+   <link href="http://blog.mackeracher.com/2010/11/19/turns-out-bose-headphones-rock.html"/>
    <updated>2010-11-19T00:00:00-05:00</updated>
-   <id>http://example.com/2010/11/19/turns-out-bose-headphones-rock</id>
+   <id>http://blog.mackeracher.com/2010/11/19/turns-out-bose-headphones-rock</id>
    <content type="html">&lt;div class=&#39;posterous_autopost&#39;&gt;&lt;a href=&#39;http://posterous.com/getfile/files.posterous.com/amackera/09PF6KlnNybIYPUcWoU77WFXFkSsvhliGCT3gDoQsclLhRknu8vqW0a8hG99/IMG_20101119_162651.jpg.scaled.1000.jpg&#39;&gt;&lt;img src=&quot;http://posterous.com/getfile/files.posterous.com/amackera/E8fsBw6PivJNUXVaD0n64E6R5Hs4bvknlSmXuc7o3Dmvc25MfGVvvLC7JADI/IMG_20101119_162651.jpg.scaled.500.jpg&quot; width=&quot;500&quot; height=&quot;377&quot;/&gt;&lt;/a&gt; &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>My Life, Drum-roll Please</title>
-   <link href="http://example.com/2010/08/28/my-life-drum-roll-please.html"/>
+   <link href="http://blog.mackeracher.com/2010/08/28/my-life-drum-roll-please.html"/>
    <updated>2010-08-28T00:00:00-04:00</updated>
-   <id>http://example.com/2010/08/28/my-life-drum-roll-please</id>
+   <id>http://blog.mackeracher.com/2010/08/28/my-life-drum-roll-please</id>
    <content type="html">I haven&#39;t posted on this blog in ages! I have neglected it like many things in my life. Things have been tumultuous for me, these past months, but I&#39;ve emerged from the chaos and I&#39;m doin&#39; fine.
 
 So I am working at a fantastic Waterloo startup &lt;a title=&quot;Top Hat Monocle&quot; href=&quot;http://tophatmonocle.com&quot; target=&quot;_blank&quot;&gt;Top Hat Monocle&lt;/a&gt;, and we&#39;re launching in September. The bulk of my work is top-secret at this time. We don&#39;t want to spoil the punchline too early in the game. Trust me, though, it&#39;s badass.
@@ -98,9 +117,9 @@ There&#39;s not much of a point to this post, just writing for the sake of it. H
  
  <entry>
    <title>Why I Became a Pirate</title>
-   <link href="http://example.com/2010/05/08/why-i-became-a-pirate.html"/>
+   <link href="http://blog.mackeracher.com/2010/05/08/why-i-became-a-pirate.html"/>
    <updated>2010-05-08T00:00:00-04:00</updated>
-   <id>http://example.com/2010/05/08/why-i-became-a-pirate</id>
+   <id>http://blog.mackeracher.com/2010/05/08/why-i-became-a-pirate</id>
    <content type="html">Following a small trend going around in the &lt;a href=&quot;http://www.pirateparty.ca/&quot;&gt;Pirate Party of Canada&lt;/a&gt;&#39;s forums, and specifically Scott Elcomb&#39;s &lt;a href=&quot;http://psema4.com/blog/libertatia.php/2009/09/10/why-i-became-a-pirate&quot;&gt;blog post&lt;/a&gt;, I have decided to write a small explanation of why I have elected to become a proud Pirate.
 
 Firstly let me make it clear that by &quot;Pirate&quot; I mean a full-fledged, donating &lt;a href=&quot;https://crm.piratepartyofcanada.com/membership_signup.php&quot;&gt;member&lt;/a&gt; of the Pirate Party of Canada. I have &lt;strong&gt;not&lt;/strong&gt; become a Somalian bandit who hijacks shipping vessels. I should also clarify that the views expressed here are my own. They are &lt;strong&gt;not&lt;/strong&gt; necessarily reflective of the views and opinions of the Pirate Party of Canada. I do not represent the party in any official capacity.
@@ -115,9 +134,9 @@ The Pirate Party is taking back the term for the common people accused of these 
  
  <entry>
    <title>Using Django on Dreamhost</title>
-   <link href="http://example.com/2009/10/01/using-django-on-dreamhost.html"/>
+   <link href="http://blog.mackeracher.com/2009/10/01/using-django-on-dreamhost.html"/>
    <updated>2009-10-01T00:00:00-04:00</updated>
-   <id>http://example.com/2009/10/01/using-django-on-dreamhost</id>
+   <id>http://blog.mackeracher.com/2009/10/01/using-django-on-dreamhost</id>
    <content type="html">I am in the process of migrating all my websites from &lt;a title=&quot;Pair Networks&quot; href=&quot;http://www.pair.com/&quot;&gt;Pair&lt;/a&gt; hosting to &lt;a title=&quot;Dreamhost&quot; href=&quot;http://dreamhost.com/&quot;&gt;Dreamhost&lt;/a&gt;. I managed to get a deal from Dreamhost that I couldn&#39;t refuse, and I&#39;ve been meaning to redesign some of my projects on top of the &lt;a title=&quot;Django Project&quot; href=&quot;http://www.djangoproject.com/&quot;&gt;Django framework&lt;/a&gt;, so the switch made sense.
 
 Setting up Django projects on Dreamhost isn&#39;t &lt;em&gt;completely&lt;/em&gt; painless, however. The &lt;a title=&quot;Dreamhost Wiki page on Django&quot; href=&quot;http://wiki.dreamhost.com/Django&quot;&gt;wiki article&lt;/a&gt; is very helpful, but if you&#39;re a Django newbie like myself you may get hung up on a few things (like I did). The following is a short tutorial on how to get up and running with Django, with hosting from Dreamhost.
@@ -173,9 +192,9 @@ Now you should be able to point your browser to www.&amp;lt;your domain&amp;gt;.
  
  <entry>
    <title>Books Which Have made a Difference in my Life</title>
-   <link href="http://example.com/2009/09/23/books-which-have-made-a-difference-in-my-life.html"/>
+   <link href="http://blog.mackeracher.com/2009/09/23/books-which-have-made-a-difference-in-my-life.html"/>
    <updated>2009-09-23T00:00:00-04:00</updated>
-   <id>http://example.com/2009/09/23/books-which-have-made-a-difference-in-my-life</id>
+   <id>http://blog.mackeracher.com/2009/09/23/books-which-have-made-a-difference-in-my-life</id>
    <content type="html">I do a lot of reading and like many hackers the books I read tend to come from all different genres and eras. I don&#39;t claim to have any profound ability to find good literature, but occasionally in my word wanderings I stumble upon a mind-blowing book which alters the way in which I view the world. Hopefully some kindred spirits will find my annotated list and be encouraged to borrow these books from their library and get reading!
 
 &lt;em&gt;Disclaimer&lt;/em&gt;: The order of this list is &lt;em&gt;not&lt;/em&gt; indicative of their precedence!
@@ -198,9 +217,9 @@ Though many of my classmates despised this book, I believe it to be an exception
  
  <entry>
    <title>APN settings for HTC Dream on Rogers</title>
-   <link href="http://example.com/2009/06/27/apn-settings-for-htc-dream-on-rogers.html"/>
+   <link href="http://blog.mackeracher.com/2009/06/27/apn-settings-for-htc-dream-on-rogers.html"/>
    <updated>2009-06-27T00:00:00-04:00</updated>
-   <id>http://example.com/2009/06/27/apn-settings-for-htc-dream-on-rogers</id>
+   <id>http://blog.mackeracher.com/2009/06/27/apn-settings-for-htc-dream-on-rogers</id>
    <content type="html">If any G1 or Dev phone users are trying to get data in Canada, the following is the default APN setting on my Rogers HTC Dream:
 
 &lt;pre lang=&quot;make&quot;&gt;Name: Rogers
@@ -222,9 +241,9 @@ APN Type: not set
  
  <entry>
    <title>Microcontroller Porn</title>
-   <link href="http://example.com/2009/06/14/microcontroller-porn.html"/>
+   <link href="http://blog.mackeracher.com/2009/06/14/microcontroller-porn.html"/>
    <updated>2009-06-14T00:00:00-04:00</updated>
-   <id>http://example.com/2009/06/14/microcontroller-porn</id>
+   <id>http://blog.mackeracher.com/2009/06/14/microcontroller-porn</id>
    <content type="html">Okay, so it&#39;s not &lt;em&gt;really&lt;/em&gt; porn since the IC casings are still firming in place, hah. Here are some photos of my Arduino Duemilannove and its Ethernet shield.
 
 First the Duemilannove itself. Sporting the Atmel ATMega168 microcontroller, this is one serious piece of power-efficient hardware. I am currently sketching out a really small Operating System for this board, for kicks and giggles.
@@ -245,9 +264,9 @@ Contact me if you are interested in OS design or just for interest sake.
  
  <entry>
    <title>Don Quixote</title>
-   <link href="http://example.com/2009/06/12/don-quixote.html"/>
+   <link href="http://blog.mackeracher.com/2009/06/12/don-quixote.html"/>
    <updated>2009-06-12T00:00:00-04:00</updated>
-   <id>http://example.com/2009/06/12/don-quixote</id>
+   <id>http://blog.mackeracher.com/2009/06/12/don-quixote</id>
    <content type="html">What&#39;s the deal with all the crazy depressed people wandering around in the wasteland in Miguel de Cervantes &lt;em&gt;Don Quixote&lt;/em&gt;? There are seriously uncountable numbers of them. If somebody were to go crazy and wander around aimlessly in the wilderness near my hometown in Canada, they would die before they met anybody interesting.
 
 That is all.
@@ -256,9 +275,9 @@ That is all.
  
  <entry>
    <title>What is the brain computer analogy?</title>
-   <link href="http://example.com/2009/05/13/what-is-the-brain-computer-analogy.html"/>
+   <link href="http://blog.mackeracher.com/2009/05/13/what-is-the-brain-computer-analogy.html"/>
    <updated>2009-05-13T00:00:00-04:00</updated>
-   <id>http://example.com/2009/05/13/what-is-the-brain-computer-analogy</id>
+   <id>http://blog.mackeracher.com/2009/05/13/what-is-the-brain-computer-analogy</id>
    <content type="html">If you search for &quot;&lt;a title=&quot;Google search for &amp;quot;brain computer analogy&amp;quot;&quot; href=&quot;http://www.google.ca/search?q=brain+computer+analogy&quot;&gt;brain computer analogy&lt;/a&gt;&quot; on Google, you will see, surprisingly, that my &lt;a title=&quot;Comments: What’s missing from the brain-computer analogy&quot; href=&quot;http://thesplitbrain.com/2009/02/09/comments-whats-missing-from-the-brain-computer-analogy/&quot;&gt;comments&lt;/a&gt; on &lt;a title=&quot;Encephalogue on Blogger&quot; href=&quot;http://encephalogue.blogspot.com/&quot;&gt;Encephalogue&lt;/a&gt;&#39;s original &lt;a title=&quot;What&#39;s missing from the brain-computer analogy&quot; href=&quot;http://encephalogue.blogspot.com/2008/12/whats-missing-from-brain-computer.html&quot;&gt;ruminations&lt;/a&gt; on the topic appear in &lt;em&gt;pretty high up there &lt;/em&gt;(currently 5th place). How is it that &lt;em&gt;my lowly conjecture&lt;/em&gt; is one of the top Google hits? It boggles me that such a fundamental concept is so underrepresented on the web, so let me remedy that with the following:
 
 The brain-computer analogy (BCA) is simply this: &lt;em&gt;The brain is essentially a computer.&lt;/em&gt;
@@ -283,9 +302,9 @@ The analogy may seem overly ambitious to many, but the essence of the analogy st
  
  <entry>
    <title>Brightening My Worldview</title>
-   <link href="http://example.com/2009/04/11/brightening-my-worldview.html"/>
+   <link href="http://blog.mackeracher.com/2009/04/11/brightening-my-worldview.html"/>
    <updated>2009-04-11T00:00:00-04:00</updated>
-   <id>http://example.com/2009/04/11/brightening-my-worldview</id>
+   <id>http://blog.mackeracher.com/2009/04/11/brightening-my-worldview</id>
    <content type="html">Having recently admitted by disillusionment with religion to my (religious) parents, I have been finding myself somewhat lost and lonely. Even though for years I had been questioning my faith, and slowing drawing away from identifying with any religious beliefs, I was still part of a community that knew me and liked me. Now I&#39;ve cut that part out of my life. It feels strangely empty and liberating. I feel more genuine since I don&#39;t have to participate in a sham I don&#39;t believe in, but it also feels like I&#39;ve turned my back on something, well, &lt;em&gt;sacred&lt;/em&gt;.
 
 Today I learned of the &lt;a title=&quot;The Brights&#39; Net&quot; href=&quot;http://www.the-brights.net/movement/&quot;&gt;Brights&lt;/a&gt; movement. The movement is for people with a worldview &quot;free of supernatural and mystical forces.&quot; Some heavyweight, vocal intellectuals whom I admire are said to be supporters of the movement (Daniel Dennet, Steven Pinker, Richard Dawkins, among others).
@@ -296,9 +315,9 @@ I am glad there is a movement for rational, clear thinkers who possess no room f
  
  <entry>
    <title>Comments: What's missing from the brain-computer analogy</title>
-   <link href="http://example.com/2009/02/09/comments-whats-missing-from-the-brain-computer-analogy.html"/>
+   <link href="http://blog.mackeracher.com/2009/02/09/comments-whats-missing-from-the-brain-computer-analogy.html"/>
    <updated>2009-02-09T00:00:00-05:00</updated>
-   <id>http://example.com/2009/02/09/comments-whats-missing-from-the-brain-computer-analogy</id>
+   <id>http://blog.mackeracher.com/2009/02/09/comments-whats-missing-from-the-brain-computer-analogy</id>
    <content type="html">A new blogger over at &lt;a title=&quot;Encephalogue&quot; href=&quot;http://encephalogue.blogspot.com/&quot;&gt;Encephalogue&lt;/a&gt;, Sean Patrick, has posted &lt;a title=&quot;What&#39;s missing from the brain-computer analogy&quot; href=&quot;http://encephalogue.blogspot.com/2008/12/whats-missing-from-brain-computer.html&quot;&gt;his opinions&lt;/a&gt; on the brain-computer analogy, one of the foundations of the cognitive sciences.
 
 It&#39;s a solid read, a good introduction to the dialogue surrounding the mind-machine metaphor. Patrick argues that:
@@ -313,9 +332,9 @@ However, I&#39;m glad there are other rationalists like &lt;a title=&quot;Enceph
  
  <entry>
    <title>Programming the Arduino</title>
-   <link href="http://example.com/2009/02/05/programming-the-arduino.html"/>
+   <link href="http://blog.mackeracher.com/2009/02/05/programming-the-arduino.html"/>
    <updated>2009-02-05T00:00:00-05:00</updated>
-   <id>http://example.com/2009/02/05/programming-the-arduino</id>
+   <id>http://blog.mackeracher.com/2009/02/05/programming-the-arduino</id>
    <content type="html">uC Hobby has an excellent article on &lt;a title=&quot;Programming the Arduino&quot; href=&quot;http://www.uchobby.com/index.php/2009/02/01/mcu-programming-intro-series-1-sos-on-the-arduino/&quot;&gt;programming on the Arduino&lt;/a&gt; platform. I have a particular interest in this since I own and program one of this suckers for fun.
 
 Check it out if you&#39;re interested in learning about microcontroller programming! The Arduino is a great (and cheap) starting point.
@@ -324,9 +343,9 @@ Check it out if you&#39;re interested in learning about microcontroller programm
  
  <entry>
    <title>What is a Turing machine?</title>
-   <link href="http://example.com/2009/02/01/what-is-a-turing-machine.html"/>
+   <link href="http://blog.mackeracher.com/2009/02/01/what-is-a-turing-machine.html"/>
    <updated>2009-02-01T00:00:00-05:00</updated>
-   <id>http://example.com/2009/02/01/what-is-a-turing-machine</id>
+   <id>http://blog.mackeracher.com/2009/02/01/what-is-a-turing-machine</id>
    <content type="html">If you have a budding interest in computer science, but have not yet studied it formally, then you&#39;ve likely heard the term &quot;Turing machine&quot; floating around in your adventures across the Internet. Mayhap you have asked yourself &quot;What is this Turing Machine, and why should I care? &quot; eyes wide with wonder and excitement. If so, hopefully this article will offer a modicum of enlightenment; a grain of knowledge.
 &lt;h3&gt;Turing machines, what are they?&lt;/h3&gt;
 &lt;a title=&quot;Wikipedia - Turing Machine&quot; href=&quot;http://en.wikipedia.org/wiki/Turing_machine&quot;&gt;Wikipedia&lt;/a&gt; says:
@@ -370,9 +389,9 @@ For those interested in the origin of TMs, you might read the &lt;a title=&quot;
  
  <entry>
    <title>The Corpus Callosum</title>
-   <link href="http://example.com/2008/12/08/the-corpus-callosum.html"/>
+   <link href="http://blog.mackeracher.com/2008/12/08/the-corpus-callosum.html"/>
    <updated>2008-12-08T00:00:00-05:00</updated>
-   <id>http://example.com/2008/12/08/the-corpus-callosum</id>
+   <id>http://blog.mackeracher.com/2008/12/08/the-corpus-callosum</id>
    <content type="html">The intention behind this blog is to develop and discuss ideas related to the Cognitive Sciences. Potential topics include (but are not limited to): language acquisition and processing, artificial intelligence, computational simulation, consciousness, physiological psychology, philosophy of the mind, computation, and information theory. These are all topics that interest me greatly, and it is my hope that similar minded people will stumble across my writings and find them accessible and engaging.
 
 The Split Brain refers to the outcome of a rare surgical technique called a &lt;a href=&quot;http://en.wikipedia.org/wiki/Corpus_callosotomy&quot;&gt;corpus callosotomy&lt;/a&gt;. The patient undergoing surgery has some or all of his or her &lt;a href=&quot;http://en.wikipedia.org/wiki/Corpus_callosum&quot;&gt;corpus callosum&lt;/a&gt; severed. The technique is used as a last resort to prevent seizures in serious cases of epilepsy. The corpus callosum is integral in the transmission of information between the left and right hemispheres of the brain. Patients who have undergone a corpus callosotomy display curious behavior, the study of which lead to many advances in the &lt;a href=&quot;http://en.wikipedia.org/wiki/Lateralization_of_brain_function&quot;&gt;lateralization of brain function&lt;/a&gt;. I have chosen this name for this blog since it reflects my broad interests. They are seemingly unconnected, yet holistically they are tied together in the interdisciplinary study of Cognitive Science, just as a split-brain patient has two distinct hemispheres, but remains a single conscious entity.

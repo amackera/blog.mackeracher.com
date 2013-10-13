@@ -7,10 +7,10 @@ markdown: rdiscount
 
 # configuration required for some pages
 
-domain: example.com
-title: Mackeracher
+domain: blog.mackeracher.com
+title: Anson Writes
 author: Anson MacKeracher
-email: anson@mackeracher.com
+email: amackera@gmail.com
 
 # configuration for ehancements, uncomment to enable
 
