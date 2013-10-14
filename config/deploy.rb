@@ -1,10 +1,13 @@
-set :application, 'my app name'
-set :repo_url, 'git@example.com:me/my_repo.git'
+set :application, 'blog.mackeracher.com'
+set :repo_url, 'git@github.com:amackera/blog.mackeracher.com.git'
 
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
 
-# set :deploy_to, '/var/www/my_app'
-# set :scm, :git
+set :deploy_to, '/home/amackera/sites/blog.mackeracher.com'
+set :scm, :git
+set :user, 'amackera'
+role :blog, 'mackeracher.com'
+ssh_options[:forward_agent] = true
 
 # set :format, :pretty
 # set :log_level, :debug
